@@ -1,5 +1,5 @@
 package com.XXXX.lcp;
 
-public class javaSEBase {
+public class CommonBsae {
 
 }
