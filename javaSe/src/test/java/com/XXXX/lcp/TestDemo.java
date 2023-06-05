@@ -1,7 +1,11 @@
 package com.XXXX.lcp;
 
+import org.junit.Test;
+
 public class TestDemo {
-    public static void main(String[] args) {
+
+    @Test
+    public void  testDemos(){
         int x = 10;
         //10+11+12=33
         int y = x++ + x++ + x++;

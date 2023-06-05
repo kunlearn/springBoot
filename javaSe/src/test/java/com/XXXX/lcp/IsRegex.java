@@ -1,5 +1,7 @@
 package com.XXXX.lcp;
 
+import org.junit.Test;
+
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -27,7 +29,8 @@ public class IsRegex {
         return false;
     }
 
-    public static void main(String[] args) {
+    @Test
+    public void test() {
         String str = "8iufsaqzx";
         String pattern = "^[^(9|Z)]";
         Pattern r = Pattern.compile(pattern);

@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/firstBoot/firstBoot.iml" filepath="$PROJECT_DIR$/firstBoot/firstBoot.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/javaPersonalRivew.iml" filepath="$PROJECT_DIR$/.idea/javaPersonalRivew.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaSe/javaSe.iml" filepath="$PROJECT_DIR$/javaSe/javaSe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myBoot/myBoot.iml" filepath="$PROJECT_DIR$/myBoot/myBoot.iml" />
     </modules>
   </component>
 </project>
