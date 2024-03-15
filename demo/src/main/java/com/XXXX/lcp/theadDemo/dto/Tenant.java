@@ -1,4 +1,4 @@
-package com.XXXX.lcp.theadDemo;
+package com.XXXX.lcp.theadDemo.dto;
 
 import com.alibaba.fastjson.JSONObject;
 import lombok.Data;

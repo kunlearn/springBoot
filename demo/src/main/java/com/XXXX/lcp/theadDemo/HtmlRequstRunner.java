@@ -1,5 +1,7 @@
 package com.XXXX.lcp.theadDemo;
 
+import com.XXXX.lcp.theadDemo.dto.Tenant;
+
 /**
  * 模拟多线程调用进行参数预封装
  */

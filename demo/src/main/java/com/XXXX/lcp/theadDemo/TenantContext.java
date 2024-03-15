@@ -1,6 +1,8 @@
 package com.XXXX.lcp.theadDemo;
 
 
+import com.XXXX.lcp.theadDemo.dto.Tenant;
+
 import java.util.Objects;
 
 /**
