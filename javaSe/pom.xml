@@ -17,13 +17,6 @@
     </properties>
 
     <dependencies>
-        <!-- https://mvnrepository.com/artifact/junit/junit -->
-        <dependency>
-            <groupId>junit</groupId>
-            <artifactId>junit</artifactId>
-            <version>4.5</version>
-            <scope>test</scope>
-        </dependency>
         <!-- https://mvnrepository.com/artifact/org.mvel/mvel2 -->
         <dependency>
             <groupId>org.mvel</groupId>

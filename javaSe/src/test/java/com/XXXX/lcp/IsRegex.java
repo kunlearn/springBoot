@@ -1,7 +1,8 @@
 package com.XXXX.lcp;
 
-import java.util.Arrays;
 import org.junit.Test;
+
+import java.util.Arrays;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
