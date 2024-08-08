@@ -1,5 +1,6 @@
 package com.XXXX.lcp;
 
+import java.util.Arrays;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -28,8 +29,8 @@ public class IsRegex {
     }
 
     public static void main(String[] args) {
-        String str = "8iufsaqzx";
-        String pattern = "^[^(9|Z)]";
+        String str = "0985578000";
+        String pattern = ".*000$";
         Pattern r = Pattern.compile(pattern);
         Matcher m = r.matcher(str);
         System.out.println(m.matches());
