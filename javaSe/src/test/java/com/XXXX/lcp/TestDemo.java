@@ -19,7 +19,7 @@ public class TestDemo {
         System.out.println("==================================");
         int weight1 = 180;
         int weight2 = 200;
-        boolean flag = weight1 == weight2 ? true : false;
+        boolean flag = weight1 == weight2;
         System.out.println("flag:" + flag);
 
 
