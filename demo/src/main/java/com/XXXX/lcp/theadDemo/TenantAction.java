@@ -4,6 +4,7 @@ import com.XXXX.lcp.theadDemo.dto.Tenant;
 
 /**
  * 从上下文获取租户对象给租户赋值
+ * @author bangsun
  */
 public class TenantAction {
 

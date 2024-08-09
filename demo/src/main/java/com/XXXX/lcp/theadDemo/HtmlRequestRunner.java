@@ -4,8 +4,9 @@ import com.XXXX.lcp.theadDemo.dto.Tenant;
 
 /**
  * 模拟多线程调用进行参数预封装
+ * @author bangsun
  */
-public class HtmlRequstRunner implements Runnable{
+public class HtmlRequestRunner implements Runnable{
     TenantAction tenantAction = new TenantAction();
 
     @Override

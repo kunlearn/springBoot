@@ -7,6 +7,7 @@ import java.util.Objects;
 
 /**
  *  创建上下文对象,用于传递参数，从前段传递到控制层等；
+ * @author bangsun
  */
 public class TenantContext {
 

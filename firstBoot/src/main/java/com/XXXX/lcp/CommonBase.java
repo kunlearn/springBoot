@@ -3,7 +3,10 @@ package com.XXXX.lcp;
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class CommonBsae {
+/**
+ * @author bangsun
+ */
+public class CommonBase {
 
     public static ArrayList getTopN(){
 
